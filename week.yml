@@ -1,0 +1,63 @@
+Activities:
+  Work:
+    Monday: 8
+    Tuesday: 8
+    Wednesday: 8
+    Thursday: 8
+    Friday: 8
+  Sleep:
+    Monday: 8
+    Tuesday: 7
+    Wednesday: 8
+    Thursday: 7
+    Friday: 8
+    Saturday: 8
+    Sunday: 8
+  Family Time:
+    Monday: 4
+    Tuesday: 4
+    Wednesday: 4
+    Thursday: 4
+    Friday: 4
+    Saturday: 10
+    Sunday: 10
+  Exercise:
+    Monday: 0.75
+    Tuesday: 0.5
+    Wednesday: 0.5
+    Thursday: 0.5
+    Friday: 0.5
+    Saturday: 0
+    Sunday: 0
+  Clean:
+    Monday: 0.5
+    Tuesday: 0.5
+    Wednesday: 1
+    Thursday: 0.5
+    Friday: 0.5
+    Saturday: 3
+    Sunday: 1
+  Cook:
+    Monday: 0.5
+    Tuesday: 0.5
+    Wednesday: 0.5
+    Thursday: 0.5
+    Friday: 0.5
+    Saturday: 0
+    Sunday: 1
+  Art:
+    Monday: 0.5
+    Tuesday: 0.5
+    Wednesday: 0.5
+    Thursday: 0.5
+    Friday: 0.5
+    Saturday: 0.5
+    Sunday: 0.5
+  Leisure:
+    Monday: 1
+    Tuesday: 1
+    Wednesday: 1
+    Thursday: 1
+    Friday: 1
+    Saturday: 1
+    Sunday: 1
